@@ -1,84 +1,105 @@
-<!-- ========================================================= -->
-<!-- HEADER -->
-<!-- ========================================================= -->
-
-<h1 align="center">☁️ DevSecOps | Cloud Security Engineer</h1>
-
+<!-- Banner Principal -->
 <p align="center">
-Securing cloud platforms • Automating infrastructure • Building secure pipelines
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=👋%20Hi%20I'm%20Jesús%20Andrés%20|%20DevSecOps%20%26%20Cloud%20Security%20Engineer&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cloud+Security+%7C+Azure;Terraform+%7C+Docker+%7C+CI%2FCD;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Secure+Pipelines+%26+Infrastructure+as+Code" alt="Typing SVG" />
+</p>
 
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform)
-![Terragrunt](https://img.shields.io/badge/Terragrunt-Orchestration-5C4EE5?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=githubactions)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-Code%20Security-F3702A?style=for-the-badge&logo=sonarcloud)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python)
-![NodeJS](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql)
-![Security](https://img.shields.io/badge/Cloud-Security-red?style=for-the-badge&logo=icloud)
-
+<!-- Flag -->
+<p align="center">
+  <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="40" alt="Colombia Flag" />
 </p>
 
 ---
 
-# 🧭 DevSecOps Architecture
+## 🌍 About Me | Sobre mí
 
-```mermaid
-flowchart LR
+### 🇬🇧 English
+I'm a **DevSecOps & Cloud Security Engineer** focused on securing cloud platforms, automating infrastructure, and building secure CI/CD pipelines.  
+I work with **Azure**, **Terraform**, **Docker**, and **GitHub Actions**, and develop backend solutions with **Java**, **Python**, **FastAPI**, and **Spring Boot**.  
+I'm passionate about cloud governance, Policy-as-Code, and designing systems that are secure, compliant, and scalable from the start.  
 
-Dev[👨‍💻 Developer]
-GitHub[📦 GitHub Repo]
-Actions[⚙️ GitHub Actions CI/CD]
-Sonar[🔎 SonarCloud Scan]
-Docker[🐳 Docker Build]
-TF[🌍 Terraform / Terragrunt]
-Azure[☁️ Microsoft Azure]
-Policy[🛡️ Azure Policy]
-Monitor[📊 Monitoring & Logs]
-
-Dev --> GitHub
-GitHub --> Actions
-Actions --> Sonar
-Sonar --> Docker
-Docker --> TF
-TF --> Azure
-Azure --> Policy
-Policy --> Monitor
-```
+💡 *Specialized in Azure Policy, RBAC, secure APIs with JWT, and enterprise IaC with Terraform & Terragrunt.*
 
 ---
 
-# ⚡ Tech Stack
+### 🇪🇸 Español
+Soy **Ingeniero DevSecOps y Seguridad en la Nube**, enfocado en asegurar plataformas cloud, automatizar infraestructura y construir pipelines CI/CD seguros.  
+Trabajo con **Azure**, **Terraform**, **Docker** y **GitHub Actions**, y desarrollo backend con **Java**, **Python**, **FastAPI** y **Spring Boot**.  
+Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cumplidos y escalables desde el inicio.  
 
-| ☁️ Cloud | 🔐 Security | ⚙️ DevOps | 🧠 Backend | 🗄️ Database | 🤖 Automation |
-|---|---|---|---|---|---|
-| Azure | Azure Policy | GitHub Actions | Node.js | PostgreSQL | Python |
-| AKS | JWT | CI/CD | FastAPI | Azure DB | Data Analysis |
-| App Services | RBAC | Docker | REST APIs |  | Automation |
-| Governance | Cloud Security | SonarCloud | Microservices |  |  |
+💡 *Especializado en Azure Policy, RBAC, APIs seguras con JWT e IaC empresarial con Terraform y Terragrunt.*
 
 ---
 
-# 🛡️ Cloud & Security Focus
+## 📫 Connect With Me | Contáctame
+<p align="center">
+  <a href="https://www.linkedin.com/in/jesus-a-cabezas-e-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:andrescabezase@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JesusAndres2512" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-| Area | Capabilities |
-|---|---|
-| ☁️ Cloud Governance | Azure Policy, Naming Standards, Tag Enforcement |
-| 🔐 Identity & Access | RBAC, JWT, Secure Identity Design |
-| 🧱 Infrastructure as Code | Terraform Enterprise Architecture |
-| 🛡️ Cloud Security | Policy-as-Code, Compliance Automation |
-| 🔎 DevSecOps | Secure CI/CD pipelines |
-| 📦 Containers | Secure Docker workloads |
-| 🌐 Distributed Systems | Secure service-to-service communication |
+🚀 *Si el botón de correo no funciona, escríbeme a:*  
+📧 **andrescabezase@outlook.com**
 
 ---
 
-# 🚀 DevSecOps Pipeline
+## 🛠️ Tech Stack | Tecnologías
+
+### ⚙️ Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎯 Core Skills | Habilidades Clave
+<p align="center">
+  <img src="https://img.shields.io/badge/-Cloud%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DevSecOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Infrastructure%20as%20Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure%20Governance-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Secure%20APIs-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Containers%20%26%20Pipelines-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## ✨ Highlights | Logros
+- ☁️ **Cloud Security** — Azure Policy, RBAC, governance and compliance automation.  
+- 🧱 **Infrastructure as Code** — Enterprise architectures with Terraform and Terragrunt.  
+- 🔐 **DevSecOps** — Secure CI/CD pipelines with GitHub Actions and SonarCloud.  
+- 🛡️ **Secure APIs** — REST APIs with FastAPI, Spring Boot and JWT authentication.  
+- 📦 **Containers** — Docker-based workloads and secure deployments.  
+- 🤖 **Automation** — Python scripting and backend development.  
+
+---
+
+## 🧭 DevSecOps Pipeline
 
 ```mermaid
 flowchart LR
@@ -103,116 +124,40 @@ PolicyCheck --> Monitor
 
 ---
 
-# 🧩 Infrastructure Architecture (Enterprise IaC)
+## 🚀 Featured Projects | Proyectos Destacados  
 
-```mermaid
-flowchart TD
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| *Próximamente* | Proyectos destacados de DevSecOps, cloud o backend. | Azure, Terraform, FastAPI, Spring Boot |
 
-Root[Root Layer]
-Platform[Platform Layer]
-Modules[Reusable Modules]
-Policy[Azure Policy Modules]
-Env[Environment Layer]
-
-Root --> Platform
-Platform --> Modules
-Modules --> Policy
-Policy --> Env
-```
+*Puedes explorar más en [mis repositorios](https://github.com/JesusAndres2512?tab=repositories).*
 
 ---
 
-# 📌 Featured Areas
-
-| 🔹 Area | 🔧 Technologies |
-|---|---|
-| Cloud Governance | Azure Policy, RBAC |
-| IaC Enterprise | Terraform, Terragrunt |
-| Secure APIs | FastAPI, JWT |
-| DevSecOps | GitHub Actions, SonarCloud |
-| Containers | Docker |
-| Automation | Python |
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusAndres2512&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusAndres2512&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JesusAndres2512&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🤝 Let's Collaborate | Colaboremos  
+If you're looking for a **DevSecOps or Cloud Security** engineer to secure your infrastructure, automate deployments, or build secure pipelines — let's connect!  
+Si buscas un ingeniero **DevSecOps o Seguridad en la Nube** para asegurar tu infraestructura, automatizar despliegues o construir pipelines seguros — ¡hablemos!
 
+---
+
+<!-- Footer -->
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JesusAndres2512&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=100&section=footer"/>
 </p>
 
----
-
-# 📈 Activity Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JesusAndres2512&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🧠 Core Competencies
-
-```text
-Cloud Security        ████████████████████
-Terraform / IaC      ████████████████████
-Azure Governance     ████████████████████
-DevSecOps Pipelines  ███████████████████
-Backend APIs         ███████████████
-Automation           █████████████████
-```
-
----
-
-# 🧪 Example Secure Deployment Flow
-
-```mermaid
-sequenceDiagram
-
-participant Dev
-participant GitHub
-participant CI
-participant Security
-participant Azure
-
-Dev->>GitHub: Push Code
-GitHub->>CI: Trigger Pipeline
-CI->>Security: Run Scan
-Security->>CI: Pass / Fail
-CI->>Azure: Deploy via Terraform
-Azure->>Azure: Apply Azure Policy
-```
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](TU_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL)
-
-</p>
-
----
-
-<p align="center">
-⚡ Secure Cloud • Automate Everything • Trust Nothing
+  <strong>Secure Cloud · Automate Everything · Trust Nothing</strong>
 </p>
