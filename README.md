@@ -66,6 +66,10 @@ Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cum
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-002050?style=for-the-badge&logo=cosmosdb&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+*Kotlin para desarrollo de aplicaciones móviles en Android Studio.*
 
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
