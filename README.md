@@ -1,6 +1,6 @@
-<!-- Banner Principal (texto en ASCII para evitar fallos de encoding en capsule-render) -->
+<!-- Banner Principal (sin "&" en el texto para evitar error XML en capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00BFFF,100:1E90FF&amp;height=180&amp;section=header&amp;text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20DevSecOps%20%26%20Cloud%20Security%20Engineer&amp;fontSize=26&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00BFFF,100:1E90FF&amp;height=180&amp;section=header&amp;text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20DevSecOps%20and%20Cloud%20Security%20Engineer&amp;fontSize=24&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
@@ -140,12 +140,12 @@ PolicyCheck --> Monitor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusAndres2512&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusAndres2512&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JesusAndres2512&amp;theme=github-dark&amp;hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JesusAndres2512&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
