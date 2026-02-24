@@ -139,9 +139,9 @@ Policy --> Env
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusAndres2512&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -151,7 +151,7 @@ Policy --> Env
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=JesusAndres2512&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -161,7 +161,7 @@ Policy --> Env
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JesusAndres2512&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
