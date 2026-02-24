@@ -1,11 +1,11 @@
 <!-- Banner Principal (sin "&" en el texto para evitar error XML en capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00BFFF,100:1E90FF&amp;height=180&amp;section=header&amp;text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20DevSecOps%20and%20Cloud%20Security%20Engineer&amp;fontSize=24&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:5B21B6&amp;height=180&amp;section=header&amp;text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20DevSecOps%20and%20Cloud%20Security%20Engineer&amp;fontSize=24&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cloud+Security+%7C+Azure;Terraform+%7C+Docker+%7C+CI%2FCD;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Secure+Pipelines+%26+Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cloud+Security+%7C+Azure;Terraform+%7C+Docker+%7C+CI%2FCD;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Secure+Pipelines+%26+Infrastructure+as+Code" alt="Typing SVG" />
 </p>
 
 <!-- Flag -->
@@ -159,7 +159,7 @@ Si buscas un ingeniero **DevSecOps o Seguridad en la Nube** para asegurar tu inf
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00BFFF,100:1E90FF&amp;height=100&amp;section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:5B21B6&amp;height=100&amp;section=footer" alt="Footer" />
 </p>
 
 <p align="center">
