@@ -1,6 +1,6 @@
-<!-- Banner Principal -->
+<!-- Banner Principal (texto en ASCII para evitar fallos de encoding en capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=👋%20Hi%20I'm%20Jesús%20Andrés%20|%20DevSecOps%20%26%20Cloud%20Security%20Engineer&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00BFFF,100:1E90FF&amp;height=180&amp;section=header&amp;text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20DevSecOps%20%26%20Cloud%20Security%20Engineer&amp;fontSize=26&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
@@ -41,7 +41,7 @@ Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cum
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:andrescabezase@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://github.com/JesusAndres2512" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -64,8 +64,11 @@ Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cum
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-002050?style=for-the-badge&logo=cosmosdb&logoColor=white)
 
 ### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge)
@@ -137,12 +140,12 @@ PolicyCheck --> Monitor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusAndres2512&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusAndres2512&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JesusAndres2512&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=JesusAndres2512&amp;theme=github-dark&amp;hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -155,7 +158,7 @@ Si buscas un ingeniero **DevSecOps o Seguridad en la Nube** para asegurar tu inf
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00BFFF,100:1E90FF&amp;height=100&amp;section=footer" alt="Footer" />
 </p>
 
 <p align="center">
