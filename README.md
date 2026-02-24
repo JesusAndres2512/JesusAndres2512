@@ -149,18 +149,6 @@ PolicyCheck --> Monitor
   <img src="https://streak-stats.demolab.com/?user=JesusAndres2512&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<details>
-<summary>📈 Stats dinámicas (opcional)</summary>
-
-El servicio público de [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) a veces no responde por límites de la API. Si quieres las tarjetas de estadísticas y lenguajes, puedes **desplegar tu propia instancia** en Vercel (gratis) desde el repo o usar esta URL cuando el servicio esté activo:
-
-```markdown
-![Stats](https://github-readme-stats.vercel.app/api?username=JesusAndres2512&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAndres2512&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-```
-
-</details>
-
 ---
 
 ## 🤝 Let's Collaborate | Colaboremos  
