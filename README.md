@@ -1,6 +1,6 @@
 <!-- Banner Principal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=180&section=header&text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20Cloud%20Infrastructure%20%26%20DevSecOps&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=180&section=header&text=Hi%20I%27m%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20Cloud%20Infrastructure%20%2B%20DevSecOps&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
