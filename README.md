@@ -1,11 +1,11 @@
-<!-- Banner Principal (sin "&" en el texto para evitar error XML en capsule-render) -->
+<!-- Banner Principal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:5B21B6&amp;height=180&amp;section=header&amp;text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20DevSecOps%20and%20Cloud%20Security%20Engineer&amp;fontSize=24&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:5B21B6&amp;height=180&amp;section=header&amp;text=Hi%20I'm%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20Cloud%20Infrastructure%20%26%20DevSecOps&amp;fontSize=22&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cloud+Security+%7C+Azure;Terraform+%7C+Docker+%7C+CI%2FCD;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Secure+Pipelines+%26+Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+Architect+in+Training;Cybersecurity+%26+DevSecOps+Focus;Azure+%7C+AWS+%7C+Docker+%7C+CI%2FCD;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Hackathon+RiskTech+2025+%F0%9F%8F%86+1st+Place+Winner" alt="Typing SVG" />
 </p>
 
 <!-- Flag -->
@@ -18,20 +18,18 @@
 ## 🌍 About Me | Sobre mí
 
 ### 🇬🇧 English
-I'm a **DevSecOps & Cloud Security Engineer** focused on securing cloud platforms, automating infrastructure, and building secure CI/CD pipelines.  
-I work with **Azure**, **Terraform**, **Docker**, and **GitHub Actions**, and develop backend solutions with **Java**, **Python**, **FastAPI**, and **Spring Boot**.  
-I'm passionate about cloud governance, Policy-as-Code, and designing systems that are secure, compliant, and scalable from the start.  
+I'm a **Cloud Infrastructure Architect in Training** with a focus on **Cybersecurity and DevSecOps**. I specialize in designing and integrating secure solutions with **Azure**, **AWS**, and **Docker**, applying DevOps principles, automation, and Infrastructure as Code.  
+Committed to the development and deployment of secure, resilient, and scalable applications — ensuring data protection, service continuity, and compliance with best practices in cybersecurity and secure cloud architecture.
 
-💡 *Specialized in Azure Policy, RBAC, secure APIs with JWT, and enterprise IaC with Terraform & Terragrunt.*
+💡 *Specialized in secure Azure & AWS architecture, IAM, access control, CI/CD pipelines, and secure APIs with JWT.*
 
 ---
 
 ### 🇪🇸 Español
-Soy **Ingeniero DevSecOps y Seguridad en la Nube**, enfocado en asegurar plataformas cloud, automatizar infraestructura y construir pipelines CI/CD seguros.  
-Trabajo con **Azure**, **Terraform**, **Docker** y **GitHub Actions**, y desarrollo backend con **Java**, **Python**, **FastAPI** y **Spring Boot**.  
-Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cumplidos y escalables desde el inicio.  
+Soy **Arquitecto de Infraestructura Cloud en Formación** con enfoque en **Ciberseguridad y DevSecOps**. Me especializo en el diseño e integración de soluciones seguras con **Azure**, **AWS** y **Docker**, aplicando principios de DevOps, automatización e infraestructura como código.  
+Comprometido con el desarrollo y despliegue de aplicaciones seguras, resilientes y escalables, garantizando la protección de datos, continuidad del servicio y cumplimiento de buenas prácticas en ciberseguridad y arquitectura cloud segura.
 
-💡 *Especializado en Azure Policy, RBAC, APIs seguras con JWT e IaC empresarial con Terraform y Terragrunt.*
+💡 *Especializado en arquitectura segura Azure y AWS, IAM, control de accesos, pipelines CI/CD y APIs seguras con JWT.*
 
 ---
 
@@ -49,7 +47,16 @@ Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cum
 </p>
 
 🚀 *Si el botón de correo no funciona, escríbeme a:*  
-📧 **andrescabezase@outlook.com**
+📧 **andrescabezase@outlook.com** | 📞 (+57) 314 229 8292 | 📍 Bogotá D.C., Colombia
+
+---
+
+## 🎓 Education | Educación
+
+| Título | Institución | Período |
+|--------|-------------|---------|
+| 🎓 Ingeniería en Sistemas | Fundación Universitaria Los Libertadores – Bogotá D.C. | 2022 – Actualidad |
+| 📄 Bachiller Académico | I.E.D. German Arciniegas – Bogotá D.C. | 2020 |
 
 ---
 
@@ -63,24 +70,29 @@ Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cum
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-002050?style=for-the-badge&logo=cosmosdb&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-*Kotlin para desarrollo de aplicaciones móviles en Android Studio.*
+### 🗄️ Databases | Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-002050?style=for-the-badge&logo=cosmosdb&logoColor=white)
 
 ### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
@@ -89,20 +101,24 @@ Me apasiona la gobernanza cloud, Policy-as-Code y diseñar sistemas seguros, cum
   <img src="https://img.shields.io/badge/-Cloud%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/-DevSecOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Infrastructure%20as%20Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure%20Governance-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IAM%20%26%20Access%20Control-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Secure%20APIs-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Containers%20%26%20Pipelines-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-API%20Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
 ## ✨ Highlights | Logros
-- ☁️ **Cloud Security** — Azure Policy, RBAC, governance and compliance automation.  
-- 🧱 **Infrastructure as Code** — Enterprise architectures with Terraform and Terragrunt.  
-- 🔐 **DevSecOps** — Secure CI/CD pipelines with GitHub Actions and SonarCloud.  
-- 🛡️ **Secure APIs** — REST APIs with FastAPI, Spring Boot and JWT authentication.  
-- 📦 **Containers** — Docker-based workloads and secure deployments.  
-- 🤖 **Automation** — Python scripting and backend development.  
+- 🏆 **Hackathon RiskTech 2025** — **1er Lugar** en soluciones tecnológicas con IA para prevención del fraude.
+- ☁️ **Cloud Security** — Arquitectura segura en Azure y AWS, control de accesos, cifrado e IAM.
+- 🧱 **Infrastructure as Code** — Arquitecturas empresariales con Terraform y Terragrunt.
+- 🔐 **DevSecOps** — Pipelines CI/CD seguros con GitHub Actions y SonarCloud.
+- 🛡️ **Secure APIs** — APIs REST con FastAPI, Spring Boot y autenticación JWT.
+- 📦 **Containers** — Cargas de trabajo en Docker y despliegues seguros.
+- 🔭 **NASA / IASC** — Contribución al análisis de imágenes Pan-STARRS para observación de asteroides.
+- 🤖 **Automation** — Scripting en Python y desarrollo backend escalable.
 
 ---
 
@@ -116,7 +132,7 @@ Commit[Git Commit]
 Pipeline[CI/CD Pipeline]
 Scan[Security Scan]
 Build[Container Build]
-Deploy[Deploy Azure]
+Deploy[Deploy Azure / AWS]
 PolicyCheck[Policy Enforcement]
 Monitor[Monitoring]
 
@@ -135,9 +151,45 @@ PolicyCheck --> Monitor
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| *Próximamente* | Proyectos destacados de DevSecOps, cloud o backend. | Azure, Terraform, FastAPI, Spring Boot |
+| [🐾 PetTrack](https://github.com/VettApps/PetTrack) | Plataforma modular de microservicios para gestión veterinaria. Integrada en la nube con autenticación JWT y API Gateway — entorno escalable y seguro. | FastAPI, ReactJS, JWT, API Gateway, Cloud DB |
+| [🌦️ WeatherViewer](https://github.com/JesusAndres2512/WeatherViewer) | Aplicación móvil para monitoreo climático en tiempo real. | Kotlin, Android Studio |
 
 *Puedes explorar más en [mis repositorios](https://github.com/JesusAndres2512?tab=repositories).*
+
+---
+
+## 📜 Certifications & Awards | Certificaciones y Premios
+
+| Reconocimiento | Organización | Año |
+|----------------|--------------|-----|
+| 🥇 **1er Lugar — Hackathon RiskTech 2025** | RiskTech S.A.S / REDIS | 2025 |
+| 🎤 Ponente — EIEI ACOFI / CLADI 2025 *(Machine Learning en Micromagnetismo Computacional)* | ACOFI / CONFEDI – Cartagena de Indias | 2025 |
+| 🎤 Ponente — CICI 2025 *(Aplicación de Machine Learning en Magnetismo Computacional)* | Universidad Mariana – Pasto, Colombia | 2025 |
+| 🔭 Colaborador — International Astronomical Search Collaboration (NASA / Pan-STARRS) | IASC / University of Hawaii | 2024 |
+| 🛡️ Cyber Threat Management | Cisco Networking Academy | 2024 |
+| 🔒 Endpoint Security | Cisco Networking Academy | 2024 |
+| 🌐 Network Defense | Cisco Networking Academy | 2024 |
+
+---
+
+## 🧠 Soft Skills | Habilidades Blandas
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pensamiento%20Analítico-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Aprendizaje%20Continuo-5B21B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Comunicación%20Efectiva-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Liderazgo%20Colaborativo-2088FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Adaptabilidad-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Gestión%20del%20Tiempo-6DB33F?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Languages | Idiomas
+
+| Idioma | Nivel |
+|--------|-------|
+| 🇪🇸 Español | Nativo |
+| 🇬🇧 Inglés | B1 (en formación) |
 
 ---
 
@@ -156,8 +208,8 @@ PolicyCheck --> Monitor
 ---
 
 ## 🤝 Let's Collaborate | Colaboremos  
-If you're looking for a **DevSecOps or Cloud Security** engineer to secure your infrastructure, automate deployments, or build secure pipelines — let's connect!  
-Si buscas un ingeniero **DevSecOps o Seguridad en la Nube** para asegurar tu infraestructura, automatizar despliegues o construir pipelines seguros — ¡hablemos!
+If you're looking for a **Cloud Infrastructure / DevSecOps** engineer focused on cybersecurity to secure your infrastructure, automate deployments, or build secure pipelines — let's connect!  
+Si buscas un ingeniero de **Infraestructura Cloud y DevSecOps** enfocado en ciberseguridad para asegurar tu infraestructura, automatizar despliegues o construir pipelines seguros — ¡hablemos!
 
 ---
 
