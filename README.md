@@ -1,6 +1,6 @@
 <!-- Banner Principal -->
 <p align="center">
-  <img src="./banner.svg" alt="Jesus Andres Cabezas Erazo – Cloud Infrastructure + DevSecOps" width="100%" />
+  <img src="./jesus_andres_banner_v2.svg" alt="Jesus Andres Cabezas Erazo – Cloud Infrastructure + DevSecOps" width="100%" />
 </p>
 
 ---
