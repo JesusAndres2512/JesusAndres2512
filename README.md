@@ -1,16 +1,6 @@
 <!-- Banner Principal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=180&section=header&text=Hi%20I%27m%20Jesus%20Andres%20Cabezas%20Erazo%20%7C%20Cloud%20Infrastructure%20%2B%20DevSecOps&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Banner" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+Architect+in+Training;Cybersecurity+%26+DevSecOps+Focus;Azure+%7C+AWS+%7C+Docker+%7C+CI%2FCD;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Hackathon+RiskTech+2025+%F0%9F%8F%86+1st+Place+Winner" alt="Typing SVG" />
-</p>
-
-<!-- Flag -->
-<p align="center">
-  <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="40" alt="Colombia Flag" />
+  <img src="./banner.svg" alt="Jesus Andres Cabezas Erazo – Cloud Infrastructure + DevSecOps" width="100%" />
 </p>
 
 ---
