@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Cloud Security",         "value": 85 },
+    { "label": "DevSecOps",              "value": 82 },
+    { "label": "Infrastructure as Code", "value": 78 },
+    { "label": "IAM / Access Control",   "value": 80 },
+    { "label": "Secure APIs",            "value": 83 },
+    { "label": "Containers / CI-CD",     "value": 80 },
+    { "label": "Cybersecurity",          "value": 76 }
+  ]
+}

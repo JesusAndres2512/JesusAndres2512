@@ -1,0 +1,12 @@
+{
+  "title": "Language & Cloud Stack",
+  "_comment": "Hand-authored stack radar. Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "Java / Spring",   "value": 82 },
+    { "label": "Python",         "value": 80 },
+    { "label": "TypeScript/JS",  "value": 75 },
+    { "label": "Kotlin",         "value": 65 },
+    { "label": "Terraform/HCL",  "value": 74 },
+    { "label": "SQL",            "value": 78 }
+  ]
+}

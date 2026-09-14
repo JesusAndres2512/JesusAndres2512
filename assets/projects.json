@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repos owned by JesusAndres2512, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description. Org-owned repos (e.g. PetTrack under VettApps) aren't listed here since cards.py only reads the account's own repos -- they're referenced directly in the README table instead.",
+  "projects": [
+    {
+      "repo": "WeatherViewer",
+      "description": "Aplicacion movil para monitoreo climatico en tiempo real."
+    }
+  ]
+}
