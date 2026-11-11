@@ -35,13 +35,13 @@
 Hi, I'm **Jesus Andres**, Cloud Infrastructure Architect in training with a focus on **Cybersecurity and DevSecOps**, based in Bogotá, Colombia 🇨🇴.
 I design and integrate secure solutions on **Azure**, **AWS** and **Docker**, applying DevOps principles, automation and Infrastructure as Code — always with data protection, service continuity and secure architecture in mind.
 
-- ☁️ **Cloud Security & IAM** — control de accesos, cifrado y arquitectura segura en Azure y AWS.
-- 🔐 **DevSecOps** — pipelines CI/CD seguros con GitHub Actions, Jenkins y SonarCloud.
-- 🧱 **Infrastructure as Code** — arquitecturas empresariales con Terraform y Terragrunt.
-- 🛡️ **Secure APIs** — REST APIs con FastAPI y Spring Boot, autenticación JWT y API Gateway.
-- 🏆 **1er lugar — Hackathon RiskTech 2025**, soluciones con IA para prevención de fraude.
-- 🔭 **NASA / IASC** — colaborador en análisis de imágenes Pan-STARRS para observación de asteroides.
-- 🎤 Ponente en **ACOFI EIEI 2025** y **CICI 2025** (Machine Learning en magnetismo computacional).
+- ☁️ **Cloud Security & IAM** — access control, encryption and secure architecture on Azure and AWS.
+- 🔐 **DevSecOps** — secure CI/CD pipelines with GitHub Actions, Jenkins and SonarCloud.
+- 🧱 **Infrastructure as Code** — enterprise architectures with Terraform and Terragrunt.
+- 🛡️ **Secure APIs** — REST APIs with FastAPI and Spring Boot, JWT authentication and API Gateway.
+- 🏆 **1st place — RiskTech 2025 Hackathon**, AI-powered solutions for fraud prevention.
+- 🔭 **NASA / IASC** — contributor in Pan-STARRS image analysis for asteroid observation.
+- 🎤 Speaker at **ACOFI EIEI 2025** and **CICI 2025** (Machine Learning in computational magnetism).
 - 💬 Talk to me about **Cloud Security**, **DevSecOps** or **Infrastructure as Code**.
 
 <br>
@@ -118,8 +118,8 @@ PolicyCheck --> Monitor
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🐾 PetTrack](https://github.com/VettApps/PetTrack) | Plataforma modular de microservicios para gestión veterinaria, integrada en la nube con autenticación JWT y API Gateway. | FastAPI, ReactJS, JWT, API Gateway |
-| [🌦️ WeatherViewer](https://github.com/JesusAndres2512/WeatherViewer) | Aplicación móvil para monitoreo climático en tiempo real. | Kotlin, Android Studio |
+| [🐾 PetTrack](https://github.com/VettApps/PetTrack) | Modular microservices platform for veterinary management, cloud-integrated with JWT authentication and API Gateway. | FastAPI, ReactJS, JWT, API Gateway |
+| [🌦️ WeatherViewer](https://github.com/JesusAndres2512/WeatherViewer) | Mobile app for real-time weather monitoring. | Kotlin, Android Studio |
 
 <div align="center">
 
@@ -133,7 +133,7 @@ PolicyCheck --> Monitor
 
 </div>
 
-*Explora más en [mis repositorios](https://github.com/JesusAndres2512?tab=repositories).*
+*Explore more in [my repositories](https://github.com/JesusAndres2512?tab=repositories).*
 
 ---
 
@@ -141,9 +141,9 @@ PolicyCheck --> Monitor
 
 | Recognition | Organization | Year |
 |-------------|--------------|------|
-| 🥇 1st place — Hackathon RiskTech 2025 | RiskTech S.A.S / REDIS | 2025 |
-| 🎤 Speaker — EIEI ACOFI / CLADI 2025 *(Machine Learning en Micromagnetismo Computacional)* | ACOFI / CONFEDI — Cartagena de Indias | 2025 |
-| 🎤 Speaker — CICI 2025 *(Aplicación de Machine Learning en Magnetismo Computacional)* | Universidad Mariana — Pasto | 2025 |
+| 🥇 1st place — RiskTech 2025 Hackathon | RiskTech S.A.S / REDIS | 2025 |
+| 🎤 Speaker — EIEI ACOFI / CLADI 2025 *(Machine Learning in Computational Micromagnetism)* | ACOFI / CONFEDI — Cartagena de Indias | 2025 |
+| 🎤 Speaker — CICI 2025 *(Application of Machine Learning in Computational Magnetism)* | Universidad Mariana — Pasto | 2025 |
 | 🔭 Contributor — International Astronomical Search Collaboration (NASA / Pan-STARRS) | IASC / University of Hawaii | 2024 |
 | 🛡️ Cyber Threat Management | Cisco Networking Academy | 2024 |
 | 🔒 Endpoint Security | Cisco Networking Academy | 2024 |
@@ -177,15 +177,14 @@ PolicyCheck --> Monitor
 
 | Language | Level |
 |----------|-------|
-| 🇪🇸 Español | Nativo |
-| 🇬🇧 English | B1 (en formación) |
+| 🇪🇸 Spanish | Native |
+| 🇬🇧 English | B1 (in progress) |
 
 ---
 
 ## 🤝 Let's collaborate
 
 If you're looking for a **Cloud Infrastructure / DevSecOps** engineer focused on cybersecurity to secure your infrastructure, automate deployments, or build secure pipelines — let's connect!
-Si buscas un ingeniero de **Infraestructura Cloud y DevSecOps** enfocado en ciberseguridad para asegurar tu infraestructura, automatizar despliegues o construir pipelines seguros — ¡hablemos!
 
 📧 **andrescabezase@outlook.com** · 📞 (+57) 314 229 8292 · 📍 Bogotá D.C., Colombia
 
